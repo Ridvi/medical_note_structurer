@@ -1,0 +1,49 @@
+# -------------------------
+# Virtual environment
+# -------------------------
+venv/
+.env/
+.env.*
+
+
+# -------------------------
+# Python cache files
+# -------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# -------------------------
+# Distribution / packaging
+# -------------------------
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# -------------------------
+# Logs
+# -------------------------
+*.log
+
+# -------------------------
+# IDE / editor settings
+# -------------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# -------------------------
+# OS files
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# Misc
+# -------------------------
+*.sqlite3
+*.db
+*.pytest_cache/
+.coverage
